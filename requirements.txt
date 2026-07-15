@@ -1,0 +1,4 @@
+ultralytics
+openpyxl
+opencv-python
+pillow

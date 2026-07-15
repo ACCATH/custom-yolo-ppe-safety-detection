@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+env/
+.venv/
+env_yolo/
+env_yolo2/
+
+# Training outputs
+runs/
+outputs/
+
+# Dataset files
+datasets/
+
+# Model weights
+*.pt
+
+# Generated reports
+*.csv
+*.xlsx
+summary_*.txt
+
+# IDE
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+# Archives
+*.zip
+
+# Archives
+*.zip
